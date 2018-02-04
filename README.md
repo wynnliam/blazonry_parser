@@ -19,7 +19,7 @@ rendered to the image.
 
 You can find the grammar in the grammar folder, but I will post it here:
 
-`Ordinary -> Ordinary_Type Tincture`
+`Ordinary -> Ordinary_Type Tincture
 
 Line -> e | Line_Type
 
@@ -27,7 +27,7 @@ Division -> "per" Div_Type Line Tincture "and" Tincture
 
 Field -> Tincture | Division
 
-Blazon -> Field | Field Ordinary
+Blazon -> Field | Field Ordinary`
 
 There are files lisitng all the line types, tincture types, and more.
 
