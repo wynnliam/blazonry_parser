@@ -1,0 +1,14 @@
+Metals:
+	Or - Yellow
+	Argent - White
+Colours:
+	Azure - Blue
+	Gules - Red
+	Purpure - Purple
+	Sable - Black
+	Vert - Green
+Furs:
+	Ermine
+	Ermines
+	Erminois
+	Pean

@@ -1,0 +1,7 @@
+// Represents a grammar without charges.
+
+Ordinary -> Ordinary_Type Tincture
+Line -> e | Line_Type
+Division -> "per" Div_Type Line Tincture "and" Tincture
+Field -> Tincture | Division
+Blazon -> Field | Field Ordinary
